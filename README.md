@@ -1,2 +1,2 @@
 # Spring Data JPA Lab Template
-Task description is in Google Classroom.
+Samus Dima ЦК-32мп Lab1 Task description is in Google Classroom.
